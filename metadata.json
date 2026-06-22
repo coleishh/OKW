@@ -1,0 +1,6 @@
+{
+  "name": "World Picks Alpha",
+  "description": "Elite Kalshi prediction market signals and premium picks for the 2026 FIFA World Cup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
